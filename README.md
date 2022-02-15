@@ -1,11 +1,12 @@
 # WAD-Project
 Project for EG3701 – Web API Development (Rohit, Jasmine)
 Set-up
-1) In the Integrated Terminal, do the following;
+1) In the Integrated Terminal (ensure you cd into the project root directory), do the following;
  - npm install express mongoose materialize-css@next nodemon multer bcrypt 
- - Create a wadProjectDB database in MongoDB Compass and import in the JSON Files
+ - Create a wadProjectDB database in MongoDB Compass and import in the JSON Files from the assets > database Folder
 2) To start the project, type npm start in the integrated terminal
-Account:
+
+- Account:
     1) User Account:
     user1@gmail.com
     userpass
