@@ -18,7 +18,7 @@ Account:
     staff@nanyanghealth.com
     staffpass
 Features:
-    1) Rohit: 
+    1) Jasmine: 
     
     - View vaccination status. ✔ (http://localhost:3000/vaccinationStatus)
 
@@ -27,7 +27,7 @@ Features:
     - Check Out and View Payment History ✔ (http://localhost:3000/store)
 
     - Book, edit and cancel appointments. ✔ (http://localhost:3000/appointment)
-    2) Jasmine:
+    2) Rohit:
         
     - View, edit, delete, add staff record. ✔ (http://localhost:3000/staffRecord)
 
@@ -38,7 +38,5 @@ Features:
     - Update ART test result. ✔ (http://localhost:3000/ART)
 
     - View, edit, delete, add patient record ✔ (http://localhost:3000/treatmentRecord)
-
-    3) Jasmine & Rohit:
 
     - Register Account, Login to Account, Log out  ✔ (http://localhost:3000/loginSignup)
