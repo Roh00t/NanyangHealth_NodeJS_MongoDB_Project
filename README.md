@@ -28,6 +28,7 @@ Features:
     - Check Out and View Payment History ✔ (http://localhost:3000/store)
 
     - Book, edit and cancel appointments. ✔ (http://localhost:3000/appointment)
+    
     2) Rohit:
         
     - View, edit, delete, add staff record. ✔ (http://localhost:3000/staffRecord)
